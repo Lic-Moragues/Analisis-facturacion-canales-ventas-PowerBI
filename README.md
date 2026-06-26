@@ -70,4 +70,4 @@ por mes, canal, zona geográfica y estado.
 ## 👩‍💼 Autora
 
 **Oriana Moragues** — Licenciada en Administración | Data Analytics  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/licenciada-moragues/)v
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/licenciada-moragues/)
