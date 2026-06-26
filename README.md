@@ -31,10 +31,10 @@ por mes, canal, zona geográfica y estado.
 ![Dashboard](IMAGENES/Dashboard.jpeg)
 
 ### Mapa de rentabilidad por estado
-![Mapa](imagenes/mapa-rentabilidad.png)
+![Mapa](IMAGENES/Mapa-rentabilidad.jpeg)
 
 ### Conclusiones finales
-![Conclusiones](imagenes/conclusiones.png)
+![Conclusiones](IMAGENES/Conclusiones.jpeg)
 
 ---
 
@@ -63,7 +63,7 @@ por mes, canal, zona geográfica y estado.
 | Archivo | Descripción |
 |---|---|
 | `informe-facturacion-adidas.pbix` | Archivo Power BI con el tablero completo |
-| `imagenes/` | Capturas de pantalla del proyecto |
+| `IMAGENES/` | Capturas de pantalla del proyecto |
 
 ---
 
