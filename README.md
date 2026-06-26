@@ -28,7 +28,7 @@ por mes, canal, zona geográfica y estado.
 ## 📸 Vista del proyecto
 
 ### Dashboard principal
-![Dashboard](imagenes/dashboard.png)
+![Dashboard](IMAGENES/Dashboard.jpeg)
 
 ### Mapa de rentabilidad por estado
 ![Mapa](imagenes/mapa-rentabilidad.png)
